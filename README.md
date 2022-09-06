@@ -1,7 +1,5 @@
-# Data Analysis
+# How To
 
-### En este repo se encontraran algunos ejercicios/challenge/practicas.
+La idea de este repo es llenarlo de ejemplos y buenas practicas de todo lo referido al analisis de datos desde FeatureEngineering, DataCleaning, DataVisualization, etc.
 
-Es creado con el mero hecho de visibilizar mis habilidades.
-
-En las distintas branches se podran observar los distintos proyectos que he estado realizando
+Constara de varios DataFrames y en donde se aplicaran estas tecnicas.
